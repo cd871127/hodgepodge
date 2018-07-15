@@ -1,0 +1,9 @@
+[submodule "js/hodgepodge-page"]
+	path = js/hodgepodge-page
+	url = https://github.com/cd871127/hodgepodge-page.git
+[submodule "java/spring-cloud"]
+	path = java/spring-cloud
+	url = https://github.com/cd871127/spring-cloud.git
+[submodule "python/t66y"]
+	path = python/t66y
+	url = https://github.com/cd871127/t66y.git
